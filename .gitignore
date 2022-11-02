@@ -18,6 +18,8 @@
 # misc
 .DS_Store
 *.pem
+pocketbase
+pb_data
 
 # debug
 npm-debug.log*
